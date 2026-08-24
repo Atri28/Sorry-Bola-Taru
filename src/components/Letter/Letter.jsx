@@ -15,7 +15,7 @@ const Letter = () => {
         >
           <p className="letter-eyebrow">A letter I want you to read slowly</p>
           <h2 className="letter-title"></h2>
-          <p className="letter-text">
+          <p className="letter-text"></p>
 
 
          
