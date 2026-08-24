@@ -21,8 +21,8 @@ function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          <p className="hero-tag">❤️ Made with love ❤️</p>
-          <h1 className="hero-title">I&apos;m Truly Sorry</h1>
+          <p className="hero-tag"></p>
+          <h1 className="hero-title"></h1>
           <h2 className="hero-name">For the hurt, the silence, and the distance</h2>
 
           <p className="hero-description">
